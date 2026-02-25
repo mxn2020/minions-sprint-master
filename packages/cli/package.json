@@ -1,6 +1,6 @@
 {
   "name": "@minions-sprint-master/cli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "CLI for minions-sprint-master — Agent to organize and sort daily granular task priority",
   "license": "MIT",
   "repository": {
@@ -8,7 +8,11 @@
     "url": "https://github.com/mxn2020/minions-sprint-master"
   },
   "homepage": "https://sprint-master.minions.help",
-  "keywords": ["sprint-master","ai","minions"],
+  "keywords": [
+    "sprint-master",
+    "ai",
+    "minions"
+  ],
   "author": "Mehdi Nabhani <mehdi@the-mehdi.com> (https://the-mehdi.com)",
   "type": "module",
   "bin": {

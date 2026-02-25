@@ -1,0 +1,34 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "minions-sprint-master"
+version = "0.1.0"
+description = "Agent to organize and sort daily granular task priority"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.11"
+keywords = ["sprint-master","ai","minions"]
+authors = [
+    { name = "Mehdi Nabhani", email = "mehdi@the-mehdi.com" }
+]
+dependencies = [
+    "minions-sdk>=0.2.1",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=7.0"]
+
+[project.urls]
+Homepage = "https://github.com/mxn2020/minions-sprint-master"
+Repository = "https://github.com/mxn2020/minions-sprint-master"
+
+[tool.hatch.build.targets.wheel]
+packages = ["minions_sprint_master"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]

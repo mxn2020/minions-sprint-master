@@ -1,3 +1,5 @@
+![CI](https://github.com/mxn2020/@minions-sprint-master/sdk/actions/workflows/ci.yml/badge.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # @minions-sprint-master/sdk
 
 Agent to organize and sort daily granular task priority

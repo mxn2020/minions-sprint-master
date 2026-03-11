@@ -1,0 +1,8 @@
+name: "@minions-sprint-master/web"
+project_scope: child
+child_type: web-app
+parent_project: minions-sprint-master-workspace
+description: "Standard compliance definition for @minions-sprint-master/web"
+priority: high
+deploy_url: null
+tags: null

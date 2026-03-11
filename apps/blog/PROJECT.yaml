@@ -1,0 +1,8 @@
+name: "@minions-sprint-master/blog"
+project_scope: child
+child_type: blog
+parent_project: minions-sprint-master-workspace
+description: "Standard compliance definition for @minions-sprint-master/blog"
+priority: high
+deploy_url: null
+tags: null

@@ -1,0 +1,8 @@
+name: "@minions-sprint-master/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-sprint-master-workspace
+description: CLI for minions-sprint-master — Agent to organize and sort daily granular task priority
+priority: high
+deploy_url: null
+tags: null

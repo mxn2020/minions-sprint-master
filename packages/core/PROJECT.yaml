@@ -1,0 +1,8 @@
+name: "@minions-sprint-master/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-sprint-master-workspace
+description: Agent to organize and sort daily granular task priority
+priority: high
+deploy_url: null
+tags: null

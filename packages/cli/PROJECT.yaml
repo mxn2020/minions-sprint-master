@@ -6,3 +6,4 @@ description: CLI for minions-sprint-master — Agent to organize and sort daily 
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox

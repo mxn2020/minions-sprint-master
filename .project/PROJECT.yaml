@@ -1,0 +1,16 @@
+name: minions-sprint-master-workspace
+project_scope: main
+project_type: monorepo
+description: Agent to organize and sort daily granular task priority
+tier: prototype
+lane: minions-platform
+priority: medium
+oss: true
+stack: ["typescript"]
+repo: "https://github.com/mxn2020/minions-sprint-master"
+deploy_url: null
+last_active: 2026-03-11
+tags: ["minions-sprint-master-workspace", "minions", "toolbox"]
+notes: null
+id: null
+category: minion-toolbox

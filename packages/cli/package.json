@@ -1,6 +1,6 @@
 {
   "name": "@minions-sprint-master/cli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "CLI for minions-sprint-master — Agent to organize and sort daily granular task priority",
   "license": "MIT",
   "repository": {
